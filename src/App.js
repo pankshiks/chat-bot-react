@@ -13,7 +13,7 @@ const App = () => {
       <main className="py-3">
         <Container>
           <div className="bot">
-            <Route path="/" component={Chatbot} exact />
+            <Route path="/chat-bot-react/build/" component={Chatbot} exact />
           </div>
         </Container>
       </main>
