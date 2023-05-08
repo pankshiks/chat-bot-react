@@ -18,10 +18,10 @@ const Link = () => {
             <td>
               <a
                 style={{ textDecoration: 'none' }}
-                href="http://www.rmc.gov.in/rmcwebsite/tax_bill_receipt_new.aspx"
+                href="https://www.potatopro.com/potato-conferences-tradeshows/interpack-2023"
                 target="_blank"
               >
-                Property Tax Bills/Receipt
+                Interpack 2023
               </a>
             </td>
           </tr>
@@ -30,10 +30,10 @@ const Link = () => {
             <td>
               <a
                 style={{ textDecoration: 'none' }}
-                href="http://www.rmc.gov.in/rmcwebsite/birth_death_certificate.aspx"
+                href="https://www.potatopro.com/potato-conferences-tradeshows/national-restaurant-association-show-2023"
                 target="_blank"
               >
-                Birth & Death
+                National Restaurant Association Show 2023
               </a>
             </td>
           </tr>
@@ -42,10 +42,10 @@ const Link = () => {
             <td>
               <a
                 style={{ textDecoration: 'none' }}
-                href="http://www.rmc.gov.in/rmcwebsite/tax_new.aspx"
+                href="https://www.potatopro.com/potato-conferences-tradeshows/sweets-snacks-expo-2023"
                 target="_blank"
               >
-                Property Tax
+                Sweets & Snacks Expo 2023
               </a>
             </td>
           </tr>
@@ -66,10 +66,10 @@ const Link = () => {
             <td>
               <a
                 style={{ textDecoration: 'none' }}
-                href="http://www.rmc.gov.in/rmcwebsite/onlineservice.aspx"
+                href="https://www.potatopro.com/potato-conferences-tradeshows/hotel-show-2023"
                 target="_blank"
               >
-                Online Services
+               The Hotel Show 2023
               </a>
             </td>
           </tr>
