@@ -7,7 +7,6 @@ const Review = ({ steps }) => {
   const [age, setAge] = useState('');
 
   useEffect(() => {
-    console.log("steps--",steps)
     const arry =[steps]
     arry.map((val)=>{
       if(val.gender.message !=''){
