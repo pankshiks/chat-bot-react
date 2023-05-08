@@ -29,12 +29,23 @@ const config = {
 
 const Chatbot = (props) => {
   let [showChat, setShowChat] = useState(false)
+  const [names,setNames] = useState("")
 
   const startChat = () => {
     setShowChat(true)
   }
   const hideChat = () => {
     setShowChat(false)
+  }
+let upname = '';
+  if(names !=''){
+    console.log("value-------",names)
+    upname = names
+    console.log(upname);
+  }
+
+  if(upname){
+    console.log("heloo00000000000000")
   }
 
   return (
