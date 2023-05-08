@@ -60,8 +60,6 @@ const Chatbot = (props) => {
               user: true,
               validator: (value) => {
                 if (/^[A-Za-z]+$/.test(value)) {
-                  setNames(value)
-                  console.log("valuw--",value)
                   return true
                 } else {
                   return 'Please input alphabet characters only.'
